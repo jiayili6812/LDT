@@ -19,7 +19,8 @@ Live site: https://jiayili6812.github.io/LDT/
 ## Past weeks
 
 Completed weeks are hidden by default after their Sunday end date, using Pacific
-time. Uncheck **Hide past weeks** to show them again; all assignments remain in
+time. A week explicitly confirmed as finished can also be marked with
+`data-completed="true"` to hide it before Sunday. Uncheck **Hide past weeks** to show them again; all assignments remain in
 the document. The checkbox choice is remembered in the current browser.
 
 ## GitHub Pages settings
